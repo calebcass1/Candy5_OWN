@@ -11,5 +11,5 @@ PRODUCT_NAME := candy5_ls990
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g3" \
     PRODUCT_NAME="g3_spr_us" \
-    BUILD_FINGERPRINT="lge/g3_spr_us/g3:4.4.2/KVT49L.LS990ZV4/LS990ZV4.1403169216:user/release-keys" \
-    PRIVATE_BUILD_DESC="g3_spr_us-user 4.4.2 KVT49L.LS990ZV4 LS990ZV4.1403169216 release-keys"
+    BUILD_FINGERPRINT="lge/g3_spr_us/g3:5.0.1/LRX21Y/150221743942c:user/release-keys" \
+    PRIVATE_BUILD_DESC="g3_spr_us-user 5.0.1 LRX21Y 150221743942c release-keys"
