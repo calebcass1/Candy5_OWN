@@ -81,6 +81,11 @@ etc/firmware/venus.b04
 etc/firmware/venus.mbn
 etc/firmware/venus.mdt
 
+# NFC 
+lib/hw/nfc.default.so 
+lib/hw/nfc.lg.so
+vendor/firmware/libpn544_fw.so 
+
 # WiFi
 etc/firmware/fw_bcmdhd_apsta.bin
 etc/firmware/fw_bcmdhd.bin
