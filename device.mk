@@ -30,6 +30,13 @@ PRODUCT_COPY_FILES += \
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
+# NFC Support
+PRODUCT_PACKAGES += \ 
+nfc_nci.pn544 \ 
+Nfc \ 
+Tag \ 
+NfcNci 
+
 # Wifi
 PRODUCT_PACKAGES += \
     libnetcmdiface
